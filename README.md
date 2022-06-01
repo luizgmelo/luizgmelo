@@ -20,7 +20,7 @@ Um iniciante em tecnologia que vive na prática, sempre atrás de novos desafios
   <a href="https://instagram.com/l1izguilherme" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luizguilherme11111111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/l1izguilherme/l1izguilherme//blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/l1izguilherme/l1izguilherme/blob/output/github-contribution-grid-snake.svg)
   
 </div>
   
