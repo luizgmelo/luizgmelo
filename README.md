@@ -5,9 +5,8 @@ Um iniciante em tecnologia que vive na prática, sempre atrás de novos desafios
 
 <div align="center">
   <a href="https://github.com/l1izguilherme">
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l1izguilherme&show_icons=true&theme=gruvbox_light"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1izguilherme&langs_count=7&layout=compact&theme=gruvbox_light"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=l1izguilherme&show_icons=true&theme=gruvbox_light"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1izguilherme&layout=compact&theme=gruvbox_light"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="L1iz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
