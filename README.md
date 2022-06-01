@@ -19,9 +19,10 @@ Um iniciante em tecnologia que vive na prática, sempre atrás de novos desafios
   <a href="https://discord.com/invite/F5BJAKE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/l1izguilherme" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luizguilherme11111111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  ![Snake animation](https://github.com/l1izguilherme/l1izguilherme//blob/output/github-contribution-grid-snake.svg)
 </div>
   
-   ![Snake animation](https://github.com/l1izguilherme/l1izguilherme/blob/output/github-contribution-grid-snake.svg)
+   
   
   
   
