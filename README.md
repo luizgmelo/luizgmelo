@@ -10,6 +10,7 @@ Um iniciante em tecnologia que vive na prática, sempre atrás de novos desafios
 </div>
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="L1iz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="l1iz-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/841119730945622019/981599689608658964/l1zguilherme.png?width=901&height=676">
 </div>
   
