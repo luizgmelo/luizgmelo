@@ -3,7 +3,7 @@
 :man_technologist: I'm a student of programming. <br>
 :man_student: Actually studying Information Systems at the Rural Federal University of Pernambuco Serra Talhada. <br>
 :books: I have knowledge of HTML5, CSS3, JavaScritp and Python.<br>
-:computer: Currently my focus is Algorithms and Data Structure, Python and it's the language programming I know more about.
+:computer: Currently my focus is Algorithms and Data Structure, Python is the programming language that I know more about.
 
 ## Technologies 
 ### Front-end
