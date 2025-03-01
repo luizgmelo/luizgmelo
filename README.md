@@ -1,35 +1,28 @@
-## Hello. My name is Guilherme.
+## Hi there. 👋🏻💻 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>
 
-:man_technologist: I'm a student of programming. <br>
-:man_student: Actually studying Information Systems at the Rural Federal University of Pernambuco Serra Talhada. <br>
-:books: I have knowledge of HTML5, CSS3, JavaScritp and Python.<br>
-:computer: Currently my focus is Algorithms and Data Structure, Python is the programming language that I know more about.
+### My name is Luiz Guilherme
 
-## Technologies 
-### Front-end
-<div> 
-    <img align="center" alt="badge-html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="badge-css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="badge-js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" width="40px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px"/>
+
+(Java | Spring Boot | PostgreSQL | Javascript | HTML | CSS ) 🚀
+
+- 👩‍💻 Back-end Developer
+- 🎓 Bachelor's degree in Information Systems
+- 🌐 Passionate about web development
+- 💡 Love a good challenge
+
+### Contacts:
+
+<p align='left'>
+   <a href="https://www.linkedin.com/in/luiz-g-melo/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>&nbsp;&nbsp;      
+  <a href="mailto:luizgmelo64@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:luizgmelo64@gmail.com"></a>&nbsp;&nbsp;
+ </p>
+
+![Snake animation](https://github.com/luizgmelo/luizgmelo/blob/output/github-contribution-grid-snake.svg)
+
 </div>
-
-#
-### Back-end
-<div> 
-    <img align="center" alt="badge-python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
-#
-### Contact with me
-<div>
-  <a href="https://www.linkedin.com/in/luiz-guilherme-78905323a/" target="_blank" rel="external">
-      <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
-</div>
- 
- 
-  ![Snake animation](https://github.com/luizgmelo/luizgmelo/blob/output/github-contribution-grid-snake.svg)
-
- 
-</div>
-
